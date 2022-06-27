@@ -1,0 +1,5 @@
+version: 0.1
+cli:
+  version: 0.13.2-beta
+lint:
+  enabled:
